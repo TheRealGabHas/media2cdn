@@ -58,5 +58,6 @@ async def on_message(msg):
             await msg.channel.send(f'**Oops!** <@{msg.author.id}> attempted to use invalid url. Here is the new one :'
                                    f'\n{link}')
             # I don't send the embed with the message because it will appear under the text and that's not what I expect
+            # But you can change this to : msg.channel.send("...", embed=embed)
 
 client.run('TOKEN')
