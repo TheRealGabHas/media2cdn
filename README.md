@@ -9,6 +9,4 @@
 
 ## Invite the bot
 
-> To invite the bot go to https://gabhas.fr/media2cdn and follow the instructions.
-> After that everything is done, you just have to wait for the bot to convert
-> user's wrong messages.
+> The bot is now offline, you will have to create one by yourself.
